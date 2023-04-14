@@ -20,6 +20,8 @@ This project was developed using the following technologies:
 
 ## 🖥 Preview
 
+In the example below I pressed and held the microphone button and said: "one and two and three and four", then I checked that my list was correct and clicked the save button. That was it.
+
 ![RPReplay_Final1681434895](https://user-images.githubusercontent.com/7294833/231920277-5d16a056-cc77-4cb3-b2ec-fd86fa646b65.gif)
 
 
