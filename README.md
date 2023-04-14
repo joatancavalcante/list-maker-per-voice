@@ -18,3 +18,8 @@ This project was developed using the following technologies:
 - Expo
 - Google Speech To Text API
 
+## 🖥 Preview
+
+![RPReplay_Final1681434895](https://user-images.githubusercontent.com/7294833/231920277-5d16a056-cc77-4cb3-b2ec-fd86fa646b65.gif)
+
+
