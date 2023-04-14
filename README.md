@@ -13,12 +13,8 @@ Its necessary basically to create a credential for authenticate in Google Speech
 
 This project was developed using the following technologies:
 
-- [NextJS](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- Next-Themes
+- React Native
 - Typescript
+- Expo
+- Google Speech To Text API
 
-
-## 🖥 Preview
-
-![Gravação de Tela 2023-03-28 às 14 12 26](https://user-images.githubusercontent.com/7294833/228317458-263f3c32-1384-4723-a627-3c14b53e7b23.gif)
